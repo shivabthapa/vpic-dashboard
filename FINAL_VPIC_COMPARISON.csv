@@ -1,0 +1,6 @@
+run,delta0_di0,theory_q1_Lprime_ell_Omci_inv,theory_q1_Lprime_10di0_Omci_inv,measured_q05_crossing_Omci_inv,q05_status,q05_last_sampled_time_Omci_inv,q05_max_Ueta_over_VA,thinning_time_Omci_inv,thinning_window_lo_Omci_inv,thinning_window_hi_Omci_inv,thinning_quality
+1di,1.0,15.78663239,14.6457392,,not reached in available early-phase snapshots,104.9892171,0.3242988567,117.60905,87.676245,132.98349,B: Bx-tanh and ≥1 independent width family agree
+2di,2.0,39.99727875,32.24897593,,not reached in available early-phase snapshots,164.9830554,0.2334091986,181.8013,145.98149,253.10951,B: Bx-tanh and ≥1 independent width family agree
+3di,3.0,80.53134362,54.80725959,,not reached in available early-phase snapshots,193.6732681,0.1714202214,198.14032,72.913861,261.88492,C: first-episode timing has method/spatial spread or one supported width family
+4di,4.0,138.4780791,85.33037857,,not reached in available early-phase snapshots,269.9722725,0.1227335463,234.87973,57.140973,275.20329,C: first-episode timing has method/spatial spread or one supported width family
+5di,5.0,213.1232513,125.8812105,,not reached in available early-phase snapshots,284.970732,0.1033121552,227.43003,66.517358,247.37387,C: first-episode timing has method/spatial spread or one supported width family
